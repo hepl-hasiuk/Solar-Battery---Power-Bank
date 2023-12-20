@@ -1,4 +1,4 @@
-# Solar-Battery---Power-Bank
+# Solar-Battery >< Power-Bank
 ![image](https://github.com/hepl-hasiuk/Solar-Battery---Power-Bank/assets/124878705/d4d69fcd-c827-49f4-91e0-ffd9529485d7)
 
 The final report presents the design and construction of a battery management circuit (BMS) for
